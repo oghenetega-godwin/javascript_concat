@@ -1,0 +1,2 @@
+let poem = "Roses are red, \nviolets are blue,\nJavascript is fun";
+console.log(poem);
