@@ -3,4 +3,4 @@
 let firstname = 'David';
 firstname += ', Gravis';
 
-console.log(firstname);
+console.log(typeof firstname); // 'string'
